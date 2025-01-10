@@ -1,3 +1,3 @@
 # Text-Summarization-ICMTC
 ## Automatic text summarization refers to a group of methods that employ algorithms to compress a certain amount of text while preserving the text's key points. Although it may not receive as much attention as other machine learning successes, this field of computer automation has witnessed consistent advancement and improvement. Therefore, systems capable of extracting the key concepts from the text while maintaining the overall meaning have the potential to revolutionize a variety of industries, including banking, law, and even healthcare. 
-## Text Summarization assessed the performance of six new methods and fourteen classical algorithms for extractive text sumarization. The systems were evaluated using the CNN-Corpus, the largest test set available today for single document extractive summarization using two different strategies and the ROUGE and the direct match measures.
+
