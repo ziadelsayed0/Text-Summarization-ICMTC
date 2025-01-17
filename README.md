@@ -4,8 +4,9 @@
 ## Overview  
 This project is developed for the **Artificial Intelligence Competition** organized by the Military Technical College. The task involves **summarization**, where participants use advanced AI techniques to generate concise and meaningful summaries of given texts.
 
+<img src="task.jpg" alt="drawing" width="30%" height="30%" align="right"/>
+
 ### Types of Summarization  
-<img src=".jpg" alt="drawing" width="30%" height="30%" align="right"/>
 
 - **Extractive Summarization**: Selects key sentences or phrases directly from the original text and combines them into a summary.  
 - **Abstractive Summarization**: Generates entirely new sentences that encapsulate the meaning of the original text.  
