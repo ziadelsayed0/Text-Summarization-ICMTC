@@ -32,7 +32,6 @@ This project leverages cutting-edge AI frameworks and libraries:
 - **Transformers**: Pre-trained language models and summarization tools.  
 - **Tokenizers**: Efficient tokenization for large datasets.  
 - **SentencePiece**: Subword units for language modeling.  
-- **Fairseq**: A sequence-to-sequence learning toolkit by Facebook AI.  
 
 ---
 
